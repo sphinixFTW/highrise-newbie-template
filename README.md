@@ -20,3 +20,6 @@ To start the bot:
 ```
 node app.js or node . or run the start.bat
 ```
+
+## **❤️ Need Help?**
+Please contact [iHsein](https://discord.com/users/955521254738247760) or join the [official Highrise Discord server](https://discord.gg/highrise) 
