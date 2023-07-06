@@ -4,7 +4,7 @@
 
 ## **📥 Get A Clone**
 ```
-git clone https://github.com/sphinixFTW/highrise-js-bot.git
+git clone https://github.com/sphinixFTW/highrise-newbie-template.git
 ```
 
 ## **✨ Features**
